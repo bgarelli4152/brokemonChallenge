@@ -4,3 +4,9 @@ C:\Users\rmant\OneDrive\Documents\EFAClasses\.NetSEPT2019\CourseInfo\1-Gold\Chal
 C:\Users\rmant\OneDrive\Documents\EFAClasses\.NetSEPT2019\CourseInfo\1-Gold\Challenges\PokemonConsoleApp\Pokemon_Repository\obj\Debug\Pokemon_Repository.csproj.CoreCompileInputs.cache
 C:\Users\rmant\OneDrive\Documents\EFAClasses\.NetSEPT2019\CourseInfo\1-Gold\Challenges\PokemonConsoleApp\Pokemon_Repository\obj\Debug\Pokemon_Repository.dll
 C:\Users\rmant\OneDrive\Documents\EFAClasses\.NetSEPT2019\CourseInfo\1-Gold\Challenges\PokemonConsoleApp\Pokemon_Repository\obj\Debug\Pokemon_Repository.pdb
+C:\Users\bgare\Desktop\ElevenFiftyProjects\Broken Application Challenge\SD_BrokenAppChallenge\Pokemon_Repository\bin\Debug\Pokemon_Repository.dll
+C:\Users\bgare\Desktop\ElevenFiftyProjects\Broken Application Challenge\SD_BrokenAppChallenge\Pokemon_Repository\bin\Debug\Pokemon_Repository.pdb
+C:\Users\bgare\Desktop\ElevenFiftyProjects\Broken Application Challenge\SD_BrokenAppChallenge\Pokemon_Repository\obj\Debug\Pokemon_Repository.csprojAssemblyReference.cache
+C:\Users\bgare\Desktop\ElevenFiftyProjects\Broken Application Challenge\SD_BrokenAppChallenge\Pokemon_Repository\obj\Debug\Pokemon_Repository.csproj.CoreCompileInputs.cache
+C:\Users\bgare\Desktop\ElevenFiftyProjects\Broken Application Challenge\SD_BrokenAppChallenge\Pokemon_Repository\obj\Debug\Pokemon_Repository.dll
+C:\Users\bgare\Desktop\ElevenFiftyProjects\Broken Application Challenge\SD_BrokenAppChallenge\Pokemon_Repository\obj\Debug\Pokemon_Repository.pdb
